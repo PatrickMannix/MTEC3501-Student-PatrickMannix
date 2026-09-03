@@ -1,0 +1,97 @@
+# 01 Initial Project Speculation
+
+This document records your project thinking during Week 1 after you complete the course videos and positioning activities. Complete the sections after creating your personal repository from the MTEC 3501 Student Template. Use clear, provisional responses: your thinking is expected to change as you research, brainstorm, design, and test.
+
+---
+
+## 1 Initial Project Concept
+
+### 1.1 Working Title
+
+AI Companions
+
+### 1.2 Current Concept
+
+Describe what you currently imagine making, designing, researching, performing, or developing. Be as expansive as your current thinking requires; two to three sentences is the minimum. If you are not yet sure what your Culmination Project will be, describe the areas, practices, questions, technologies, or experiences you want to work within instead.
+
+People are building deeply customized, persistent virtual entities with long-term memory that actively text them updates, remember obscure life details, and adapt their personalities over time. The concept of forging emotional bonds with a completely synthetic mind feels like something pulled straight out of a dystopian sci-fi novel, yet it's becoming an everyday reality for millions. It's an incredible leap in personalized engineering, but watching human social structures adapt to software that cares back—or at least simulates it convincingly—is wildly uncanny. Is the basis for what my culmination project can present.
+
+### 1.3 Participant Experience
+
+What might a participant, audience member, user, or collaborator see, hear, do, understand, or feel?
+
+I interpret that any viewer observing my presentation on AI companions will intake information and absorb it, like any kind of person who sees interesting information.
+
+### 1.4 Early Unknowns
+
+List at least one important question, uncertainty, or problem that you need to investigate.
+
+How can an AI companion maintain long-term, contextually accurate memory across massive user bases without incurring prohibitive computational costs or experiencing data degradation? What are the psychological impacts of users forming deep emotional attachments to synthetic entities, and where should developers draw the ethical line regarding simulated care?
+
+---
+
+## 2 SRDMPA: The Architecture of Practice
+
+### 2.1 Video Response
+
+After watching *The Architecture of Practice: Dismantling the Make-First Misconception*, identify one way the SRDMPA framework changes, expands, or complicates how you were thinking about developing your project.
+
+Write 2-4 sentences.
+
+[Write here.]
+
+---
+
+## 3 Complex Creative Systems
+
+### 3.1 Video Response
+
+After watching *Complex Creative Systems*, explain how distinguishing among a North Star Vision (NSV), Minimum Viable Product (MVP), and Proof of Concept (PoC) affects how you think about your project.
+
+Write 2-4 sentences. You are not expected to define final versions of these scales yet.
+
+North Star Vision in ecosystem of fully autonomous, emotionally adaptive AI companions with permanent, cross-platform memory that serve as lifelong synthetic confidants for millions of users. Least Viable Product will be a functional text-based companion application that retains core personalized memory and simulated empathy to maintain ongoing user interactions. Proof of Concept will be a focused prototype developed during MTEC 3501 to test the feasibility and response complexity of long-term memory integration in simulated social interactions.
+
+---
+
+## 4 Project Positioning
+
+### 4.1 Content and System
+
+Briefly distinguish between your project's **content** (what it communicates, investigates, enables, or allows someone to experience) and its **system** (how it is created, organized, delivered, or experienced).
+
+The Minimum Viable Product (MVP)—or the functional text-based companion application preserving core personalized memory and simulated empathy—represents the core professional work I want others to evaluate me for, as it is the functional culmination of the project. This core component is supported by the Proof of Concept (PoC) developed during MTEC 3501, which tests feasibility and memory integration complexity, and is directed toward the long-term North Star Vision (NSV).
+
+### 4.2 Professional Contribution
+
+What part of the project represents the professional work you want others to evaluate you for? Identify any supporting, acquired, collaborative, or provisional components as needed.
+
+The Minimum Viable Product (MVP) represents the primary professional work I want others to evaluate me for, as it is the functional realization that preserves the project's essential purpose. This core deliverable is supported by the Proof of Concept (PoC) developed during MTEC 3501, which provides evidence of technical feasibility for long-term memory integration, while being guided by the overarching North Star Vision (NSV).
+
+### 4.3 Project Type Response
+
+After watching *Designing Your Culmination Project*, identify one or more project types that may fit your current idea. Explain why these possibilities fit, or why your project may be hybrid.
+
+Write 2-4 sentences.
+
+This project fits a hybrid category combining a software application/tool and an interactive digital media experience. It is a software tool because it relies on back-end data management, persistent memory architecture, and AI text-generation models to function. Simultaneously, it is an interactive digital media experience because its primary value lies in narrative dialogue, persona design, and shaping user psychology, emotional engagement, and social interaction.
+
+### 4.4 Project Origin Response
+
+How did you arrive at this project idea or area of interest, and why did you select it as a possible direction for your Culmination Project?
+
+You may discuss personal experience, prior coursework, creative or technical interests, an existing project, a collaborator, or a possible CHI Meta-Project connection. Your answer may change as the project develops.
+
+This project idea emerged from observing the rapid, surreal shift toward hyper-realistic AI companions that are fundamentally blurring the line between software and social interaction. I selected this as a possible direction for my Culmination Project because exploring the intersection of persistent memory architecture and synthetic empathy offers a compelling, cutting-edge space to investigate both advanced technical engineering and profound human-computer relationships.
+
+---
+
+## 5 Week 1 Checkpoint
+
+Before Week 2, reread this document and confirm that it represents your current thinking. During Week 1, complete this document on your repository's `main` branch, then commit and push it. You will begin working in a development branch during Week 2.
+
+- [ ] I completed the Initial Project Concept section.
+- [ ] I completed the SRDMPA response.
+- [ ] I completed the Complex Creative Systems response.
+- [ ] I completed the Project Positioning section.
+- [ ] I committed and pushed this document to my repository.
