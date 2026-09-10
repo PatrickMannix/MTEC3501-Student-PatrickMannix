@@ -38,7 +38,7 @@ After watching *The Architecture of Practice: Dismantling the Make-First Misconc
 
 Write 2-4 sentences.
 
-[Write here.]
+The SRDMPA framework expands my project development by introducing structured milestones like the Proof of Concept (PoC) to test feasibility before leaping straight into full realization. It complicates the process by forcing a clear separation between a long-term North Star Vision (NSV) and a scoped-down Minimum Viable Product (MVP). This structure ensures that both technical memory constraints and ethical implications are systematically addressed at each phase rather than all at once.
 
 ---
 
